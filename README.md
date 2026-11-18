@@ -72,7 +72,7 @@ Hak cipta merupakan perlindungan terhadap karya orisinal yang dihasilkan dalam p
 
 <div align="center">
 
-**<span style="color:#687044">Copyright © 2026 Muhammad Sayidhan Sahid</span>**
+**<span style="color:#687044">Copyright © 2026 Aira Fitri Soleha</span>**
 
 *All Rights Reserved.*
 
@@ -115,6 +115,6 @@ Perlindungan merek bertujuan untuk mencegah pihak lain menggunakan nama maupun l
 
 **Bringing Traditional Taste into Digital Innovation.**
 
-<sub>Copyright © 2026 Muhammad Sayidhan Sahid</sub>
+<sub>Copyright © 2026 Aira Fitri Soleha</sub>
 
 </div>
